@@ -4,7 +4,7 @@
 
 ## Overview      
     
-Prompt engineering is a technique used to design and optimize the text prompts provided to language models, like those from OpenAI's model family, to achieve specific, desired outcomes. By crafting well-structured prompts, developers can guide language models to perform tasks efficiently, enabling the creation of versatile applications across various fields. This project showcases how prompt engineering techniques can be applied to build effective and efficient AI-powered solutions for tasks such as summarizing, inferring, transforming, expanding text, and building conversational agents (chatbots). 
+Prompt engineering is a technique used to design and optimize the text prompts provided to language models, like those from OpenAI's model family, to achieve specific, desired outcomes. By crafting well-structured prompts, developers can guide language models to perform tasks efficiently, enabling the creation of versatile applications across various fields. This project showcases how prompt engineering techniques can be applied to build effective and efficient AI-powered solutions for tasks such as summarizing, inferring, transforming, expanding text, and building conversational agents (chatbots).  
  
 ## Goals of the Project
 
